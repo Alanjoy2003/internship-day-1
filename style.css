@@ -1,0 +1,18 @@
+body{
+    background-color:aquamarine;
+    background-image:url(  https://stat.overdrive.in/wp-content/uploads/2023/09/Compass-BS-BRoll44-1.jpg );
+}
+.btn{
+    border-radius: 15px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(188, 188, 228);
+}
+.btn:hover{
+    background-color: blueviolet;
+}
+
+
+h1{
+    text-align: center;
+}
